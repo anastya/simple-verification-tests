@@ -1,0 +1,3 @@
+include:
+  - project: 'aml/infra/ci'
+    file: '/integration-testing.yml'
