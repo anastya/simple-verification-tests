@@ -102,7 +102,6 @@
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
                             <classpathLayoutType>simple</classpathLayoutType>
-<!--                            <mainClass>ru.cft.aml.ndstagger.RunnerNdsTests</mainClass>-->
                         </manifest>
                     </archive>
                 </configuration>
